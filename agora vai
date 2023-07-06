@@ -40,7 +40,7 @@
       }
 
       .button-1 {
-        background-color: #ea4c89;
+        background-color: #41a1f0;
         color: #ffffff;
         transition: color 100ms;
 
@@ -48,7 +48,7 @@
       }
 
       .button-1:hover {
-        background-color: #f082ac;
+        background-color: #5097f3;
       }
 
       .button-2 {
